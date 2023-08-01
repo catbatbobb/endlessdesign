@@ -3,14 +3,14 @@ window.onload = function () {
     // GENERAL CONFIGS v0.1
 
     //Site title
-    let title = 'BattleCraft';
+    let title = '';
 
     //Server Ip (counter)
     var serverIp = 'play.foxcraft.net';
     var serverIpPort = 25565;
 
     //Banner image (url) 
-    var bannerTop = 'https://i.imgur.com/k0MtSCb.png';
+    var bannerTop = '/img/loadingOrNot.png';
 
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
@@ -46,7 +46,7 @@ window.onload = function () {
     var urlInstagram = "https://www.instagram.com/tdantas42/";
     var urlYoutube = "https://www.youtube.com/user/Tg42x/videos";
     var discordInvite = "https://github.com/Tiagox42";
-    var bannerSocialImage = "https://i.imgur.com/oSbKvAT.png";
+    var bannerSocialImage = "https://media.discordapp.net/attachments/1128636421511593984/1133270979905339425/Screenshot_2023-07-25_at_9.32.48_AM.png?width=975&height=580";
 
 
     //------------------ DO NOT MODIFY THE CONTENT BELOW ------------------
